@@ -1,0 +1,17 @@
+
+form :checked{
+	margin-left: 200px;
+}
+form{
+	display: inline-block;
+}
+div{
+	width: 500px;
+	background-color: cyan;
+	height: 500px;
+}
+#r{
+	padding-left: 20px;
+	background-color: yellow;
+	height:25px;
+}
