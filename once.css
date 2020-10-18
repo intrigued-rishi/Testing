@@ -4,6 +4,7 @@ form :checked{
 }
 form{
 	display: inline-block;
+	width: 100px;
 }
 div{
 	width: 500px;
